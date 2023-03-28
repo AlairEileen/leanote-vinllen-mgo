@@ -1,7 +1,7 @@
 package info
 
 import (
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 )
 
 // 笔记内部图片

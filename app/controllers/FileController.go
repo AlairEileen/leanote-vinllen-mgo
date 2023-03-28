@@ -7,7 +7,7 @@ import (
 	"github.com/leanote/leanote/app/info"
 	. "github.com/leanote/leanote/app/lea"
 	"github.com/leanote/leanote/app/lea/netutil"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	"io/ioutil"
 	"os"
 	//	"strconv"

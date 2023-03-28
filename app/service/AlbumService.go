@@ -4,7 +4,7 @@ import (
 	"github.com/leanote/leanote/app/info"
 	//	. "github.com/leanote/leanote/app/lea"
 	"github.com/leanote/leanote/app/db"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	"time"
 )
 

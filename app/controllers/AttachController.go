@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"github.com/leanote/leanote/app/info"
 	. "github.com/leanote/leanote/app/lea"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	"io"
 	"io/ioutil"
 	"os"

@@ -25,7 +25,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79
 	golang.org/x/net v0.0.0-20210324205630-d1beb07c2056 // indirect
 	golang.org/x/tools v0.0.0-20200219054238-753a1d49df85
-	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
+	github.com/vinllen/mgo r2018.04.23
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/stack.v0 v0.0.0-20141108040640-9b43fcefddd0 // indirect
 )

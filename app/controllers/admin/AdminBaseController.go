@@ -2,7 +2,7 @@ package admin
 
 import (
 	//	"github.com/revel/revel"
-	//	"gopkg.in/mgo.v2/bson"
+	//	"github.com/vinllen/mgo/bson"
 	//	"encoding/json"
 	"github.com/leanote/leanote/app/controllers"
 	. "github.com/leanote/leanote/app/lea"

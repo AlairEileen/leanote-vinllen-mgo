@@ -8,7 +8,7 @@ import (
 	. "github.com/leanote/leanote/app/lea"
 	"github.com/leanote/leanote/app/lea/archive"
 	"github.com/revel/revel"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	"html/template"
 	"io/ioutil"
 	"os"

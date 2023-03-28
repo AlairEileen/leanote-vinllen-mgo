@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/revel/revel"
 	//	"encoding/json"
-	//	"gopkg.in/mgo.v2/bson"
+	//	"github.com/vinllen/mgo/bson"
 	. "github.com/leanote/leanote/app/lea"
 	"github.com/leanote/leanote/app/lea/captcha"
 	//	"github.com/leanote/leanote/app/types"

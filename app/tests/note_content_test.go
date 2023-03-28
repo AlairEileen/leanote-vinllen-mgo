@@ -7,7 +7,7 @@ import (
     //  . "github.com/leanote/leanote/app/lea"
     "github.com/leanote/leanote/app/service"
     // "regexp"
-    //  "gopkg.in/mgo.v2"
+    //  "github.com/vinllen/mgo"
     // "fmt"
     // "strings"
 )

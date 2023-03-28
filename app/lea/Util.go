@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	"io"
 	math_rand "math/rand"
 	"regexp"

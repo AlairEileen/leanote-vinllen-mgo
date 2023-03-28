@@ -5,7 +5,7 @@ import (
 	"github.com/leanote/leanote/app/info"
 	"github.com/leanote/leanote/app/lea/i18n"
 	"github.com/revel/revel"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/vinllen/mgo/bson"
 	//	. "github.com/leanote/leanote/app/lea"
 	//	"io/ioutil"
 	//	"fmt"

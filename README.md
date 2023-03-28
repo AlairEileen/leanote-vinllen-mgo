@@ -3,6 +3,11 @@
 [![Build Status](https://travis-ci.org/leanote/leanote.svg)](https://travis-ci.org/leanote/leanote)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leanote/leanote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## 添加mongodb5支持
+> 使用github.com/vinllen/mgo替代gopkg.in/mgo.v2框架，使得leanote支持mongodb5，经过测试最新mongodb6不受mgo框架支持
+
+
+
 ## 1. Introduction
 
 Leanote, not just a notepad!
